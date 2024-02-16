@@ -1,3 +1,3 @@
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub User Statistics Dark](https://raw.githubusercontent.com/calebbarzee/profile_stats/main/generated/overview.svg#gh-dark-mode-only)
+![GitHub User Statistics Light](https://raw.githubusercontent.com/calebbarzee/profile_stats/main/generated/overview.svg#gh-light-mode-only)
 # profile_stats
